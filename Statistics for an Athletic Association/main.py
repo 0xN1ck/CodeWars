@@ -15,6 +15,7 @@ def get_range(np_array: np.ndarray) -> str:
 
 
 def get_mean(np_array: np.ndarray) -> str:
+
     """
     This function returns average
     :param np_array: np.ndarray
