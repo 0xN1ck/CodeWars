@@ -16,4 +16,4 @@ def rolldice_sum_prob(sum_, dice_amount):
 
 
 if __name__ == '__main__':
-    rolldice_sum_prob(8, 2)
+    rolldice_sum_prob(3, 4)
