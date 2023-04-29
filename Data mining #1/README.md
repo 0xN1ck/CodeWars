@@ -12,4 +12,6 @@ Error is going to be calculated with
 Blocked libraries: <i>sklearn, pandas, tensorflow, numpy, scipy</i>
 
 Explanation  
-[1] <i>A mining model is created by applying an algorithm to data, but it is more than an algorithm or a metadata container: it is a set of data, statistics, and patterns that can be applied to new data to generate predictions and make inferences about relationships.</i>
+[1] <i>A mining model is created by applying an algorithm to data, but it is more than an algorithm or a metadata
+container: it is a set of data, statistics, and patterns that can be applied to new data to generate predictions
+and make inferences about relationships.</i>

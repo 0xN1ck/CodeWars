@@ -6,13 +6,15 @@
 
 When we throw 2 classical dice (values on each side from 1 to 6) we have 36 (6 * 6) different results.
 
-We want to know the probability of having the sum of the results equals to 11. For that result we have only the combination of 6 and 5. So we will have two events: {5, 6} and {6, 5}
+We want to know the probability of having the sum of the results equals to 11. For that result we have only 
+the combination of 6 and 5. So we will have two events: {5, 6} and {6, 5}
 
 So the probability for that result will be:
 
 <code>P(11, 2) = 2/(6*6) = 1/18</code> <code>(The two is because we have 2 dice)</code>
 
-Now, we want to calculate the probability of having the sum equals to 8. The combinations for that result will be the following: <code>{4,4}, {3,5}, {5,3}, {2,6}, {6,2}</code> with a total of five combinations.
+Now, we want to calculate the probability of having the sum equals to 8. The combinations for that result will be 
+the following: <code>{4,4}, {3,5}, {5,3}, {2,6}, {6,2}</code> with a total of five combinations.
 
 <code>P(8, 2) = 5/36</code>
 

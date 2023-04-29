@@ -4,7 +4,9 @@
     <img src="http://i.imgur.com/zlXr2na.jpg?1">
 </p>
 
-Suppose that we roll dice that we never used, a tetrahedral die that has only 4 sides(values 1 to 4), or perhaps better the dodecahedral one with 12 sides and 12 values (from 1 to 12), or look! an icosahedral die with 20 sides and 20 values (from 1 to 20).
+Suppose that we roll dice that we never used, a tetrahedral die that has only 4 sides(values 1 to 4), or perhaps 
+better the dodecahedral one with 12 sides and 12 values (from 1 to 12), or look! an icosahedral die with 20 sides 
+and 20 values (from 1 to 20).
 
 
 Let's roll dice of same type and try to see the distribution of the probability for all the possible sum values.
